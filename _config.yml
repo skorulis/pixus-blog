@@ -7,7 +7,6 @@ description: > # this means to ignore newlines until "baseurl:"
 twitter_username: skorulis
 github_username:  skorulis
 timezone: Australia/Sydney
-baseurl: http://blog.pixus.io
 
 # Build settings
 markdown: kramdown
