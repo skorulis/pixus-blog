@@ -12,7 +12,7 @@ So now that I've got the framework for building a blog I need to find somewhere 
 
 Next up I wanted to give the blog a nice domain using my recently purchased pixus.io. [Github have a page exlaining this](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/) though many of the concepts are new to me. After changing a few CNAME entries and waiting the hours for it to propagate the site once again stopped working. This time it was just a matter of removing the baseurl entry.
 
-Now that the blog was up and running at the URL I wanted to add analytics which was as simple as adding my google tracking id into my config file. 
+Now that the blog was up and running at the URL I wanted to add analytics. It seems that Jekyll bootstrap would allow me to do this via a config setting but adding that was too much effort for today so I just put the tracking code in the bottom. And I'm done. One blog site up and running ready for content. 
 
 
 [GitHub Pages]: http://pages.github.com/
