@@ -17,4 +17,4 @@ Now that the blog was up and running at the URL I wanted to add analytics. It se
 
 [GitHub Pages]: http://pages.github.com/
 [jekyll]:      http://jekyllrb.com
-[lenslife]:      http://http://lenslife.com.au
+[lenslife]:      http://lenslife.com.au
