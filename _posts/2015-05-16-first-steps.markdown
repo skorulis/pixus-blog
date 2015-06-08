@@ -3,6 +3,7 @@ layout: post
 title:  "First steps"
 date:   2015-05-16 12:11:05
 categories: setup pixus
+comments: true
 ---
 Pixus is a project that I've been working on for some time while a startup that I've been working for called [lenslife] looks to get funding to continue development. Today my goal is to start letting people know about what I'm doing because if no one knows about it then how can it ever be successful?
 
