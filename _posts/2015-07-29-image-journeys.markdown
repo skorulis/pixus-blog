@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Image Journeys"
-date:   2015-07-29 14:29:00
+date:   2015-07-29 04:29:00
 categories: pixus journey
 comments: true
 ---
