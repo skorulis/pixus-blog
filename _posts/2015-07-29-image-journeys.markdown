@@ -13,11 +13,11 @@ While this idea is similar to traditional content aggregation, existing services
 Current design
 ----
 
-![Current design of the journey list]({{ site.url }}/assets/IMG_0464.JPG){: .center-image }
+![Current design of the journey list]({{ site.url }}/assets/IMG_0464.jpg){: .center-image }
 
 This is the top level of the journey system. This screen lets the user see previously created journey's as well create new ones or delete unwanted ones. The icons here give an indication of how many photos have been viewed as well as some hints to what kind of time or location filters have been used. Clicking on a journey takes the user into the photo view.
 
-![Current design of the journey stream]({{ site.url }}/assets/IMG_0466.JPG){: .center-image }
+![Current design of the journey stream]({{ site.url }}/assets/IMG_0466.jpg){: .center-image }
 
 This is the main guts of the app where users interact with images. Each journey is a fixed list of photos that the user has looked at and a constantly adjusting list of photos yet to be viewed. As the user votes or new content comes in the best content will be put on the top of the unviewed list. The icons at the top let the user get more information about a photo and provide interaction.
 
